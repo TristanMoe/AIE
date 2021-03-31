@@ -1,0 +1,21 @@
+@startwbs
+skinparam monochrome true
+title Why-Why Diagram
+* Standard roof window blinds are unsufficient 
+' Roof windows have undesirable traits / attributes 
+
+** Limited adjustability of cover 
+*** Unwanted light and glare levels 
+*** Binary covering levels 
+*** Results in reliance on artificial lighting 
+
+** Unmannagable temperature levels 
+*** Unable to reduce temperature energy load 
+*** Thermal Discomfort 
+
+** Potiental lack of privacy 
+
+** Missing context-awareness 
+*** No 'Smart Home' integration
+*** No autonomous / automated operations  
+@endwbs 
