@@ -1,0 +1,994 @@
+﻿<items>
+  <item>
+    <ID>90001</ID>
+    <Inputs>Use sea glass instead of standard glass</Inputs>
+    <Description>Sea glass might be more sustainable and environmental friendly than standard window glass. </Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>2</ID>
+    <Inputs>Light emitters instead of fabric blinds</Inputs>
+    <Description>The use of light emitters instead of fabric blinds - the emitters could be placed inside the pane and block light protons. </Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>3</ID>
+    <Inputs>Gas material instead of fabric blinds </Inputs>
+    <Description>Use gas material that changes structure based on some applied voltage (or something similiar) and perhaps contain the gas inbetween the glass panes (double layer)</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>4</ID>
+    <Inputs>Air vents diverters for windows</Inputs>
+    <Description>Air vents diverters for windows, instead of completely blocking all air add vents above/integrated into window to combine functionality. </Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>5</ID>
+    <Inputs>Solar cells in the form of photovoltaic glass</Inputs>
+    <Description>Solar cells in the form of photovoltaic glass, windows provide clean energy and function as an actual window. </Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>6</ID>
+    <Inputs>Integration with 3rd party SMART HOME hubs </Inputs>
+    <Description>Integration with 3rd party SMART HOME hubs - one step closer to pervasive homes, also window configuration can be stored with other electronic devices in a classic 'smart home', e.g. oven, fridge, tv ...</Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>7</ID>
+    <Inputs>Bulletproof blinds/glass for military</Inputs>
+    <Description>Could open up new market. </Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>8</ID>
+    <Inputs>Rotating windows with "2 faces" </Inputs>
+    <Description>One face could be transparent the other could block view - one face could have a holder for plants or something similiar and it could be rotated to go outside/inside</Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>9</ID>
+    <Inputs>SpiderWeb UV Pattern Reflection</Inputs>
+    <Description>Reflection not seen by humans but by animals - could show birds that there is a window, show another pattern that may affect insects not to go towards the window? </Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>10</ID>
+    <Inputs>Color changing crystals</Inputs>
+    <Description>Color changing crystals inspired by chameleon (biomimicry). Could perhaps introduce some new features/capabillities - more atmosfear, feeling etc. </Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>11</ID>
+    <Inputs>Glass living room with modifiable tint</Inputs>
+    <Description>Glass living room with modifiable tint - instead of just doing windows, why not try make a living room or something other room made with glass that is tinted and can be changed with tech like electrochromic glass? </Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>12</ID>
+    <Inputs>Mushroom insulation material</Inputs>
+    <Description>Mushroom insulation material instead of normal insulation polystyrene foam. </Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>13</ID>
+    <Inputs>Reinforced window blinds for cruise ship</Inputs>
+    <Description>Might open up for new market </Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>14</ID>
+    <Inputs>Dynamic Frame</Inputs>
+    <Description>Instead of static frame use 'click frames' similiar to 'click floor' </Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>15</ID>
+    <Inputs>Rectangle, Outside away from window, anti-heat, photovoltaic glass, 3rd party, Polystyrene foam</Inputs>
+    <Description>A rectangle window with the blind placed away from the window using anti-heat blind material, photovoltaic glass, manipulated via 3rd party application and standard polystyrene foam. </Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>16</ID>
+    <Inputs>Liquid Between Window Glass </Inputs>
+    <Description>Use face change to change the transparency of the glass (in relation to the liquid) </Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>17</ID>
+    <Inputs>Windows made of replaceable film</Inputs>
+    <Description>Windows made of replaceable film... this is probably a very bad idea but you never know. </Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30001</ID>
+    <Inputs>Use only sustainable materials</Inputs>
+    <Description>With the use of only reuseable or sustainable materials the CO2 foodprint can be reduced</Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30002</ID>
+    <Inputs>Reduce heat loss by removing windows and create artificial light which is seen as natural light </Inputs>
+    <Description>By removing the windows the heatloss will be stopped and then create a artifical light which is just as good as natural light</Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30003</ID>
+    <Inputs>Optimize air flow between glass to remove air</Inputs>
+    <Description>By creating an airflow in between the glasses the air can remove the heat comeing from the outside</Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30004</ID>
+    <Inputs>Film which change from letting heat in/out</Inputs>
+    <Description>Create a film which can change from letting heat in to letting heat out when adding electricity</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>30005</ID>
+    <Inputs>house of only glass</Inputs>
+    <Description>Since glass is reusable then make houses out of glass
+</Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30006</ID>
+    <Inputs>Implement a liquid between the glasses to remove heat/reject it</Inputs>
+    <Description>The liquid will work as a heat transporter system which absorb the energy </Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>30007</ID>
+    <Inputs>Light reduction implementet into smart technology</Inputs>
+    <Description>Integrate how much light a glass lets in into a smart technology
+</Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30008</ID>
+    <Inputs>Holes by the window</Inputs>
+    <Description>Makes holes in the window frame to let heat out air in and sell added fan which fit these holes</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>30009</ID>
+    <Inputs>Winter/sommer glass</Inputs>
+    <Description>Create windows where the glass can easily be switch out from a “winter” glass to a “sommer” glass</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>30010</ID>
+    <Inputs>Solar panels</Inputs>
+    <Description>Integrete solar panels into the window frame to create a more sustainable house</Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30011</ID>
+    <Inputs>Reusealbe windows</Inputs>
+    <Description>Cut the cost of window blinds by using cheap recycled window blinds</Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30012</ID>
+    <Inputs>Transparant walls</Inputs>
+    <Description>Remove windows and make transparent walls</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>30013</ID>
+    <Inputs>Changeable windowblinds</Inputs>
+    <Description>Integrate several window blinds which are great for different situations</Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30014</ID>
+    <Inputs>Tracking of light and change of position of window blind</Inputs>
+    <Description>Combine change in window blinds with tracking of heating, light, humidity</Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30015</ID>
+    <Inputs>Add air filters to the air intake in the window frame</Inputs>
+    <Description>With integreted air filters in the frame the air inside the air quality inside becomes better</Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30016</ID>
+    <Inputs>Make windows upgradable and remove the need of “new” windows each time</Inputs>
+    <Description>
+Instead of new windows each time then make them easier to upgrade to save CO2</Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30017</ID>
+    <Inputs>Prolong the lifespan of window blinds by increasing material thickness</Inputs>
+    <Description>Thicker material = longer lifespan</Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30018</ID>
+    <Inputs>Prolong the lifespan of window blinds by using more expensive materials</Inputs>
+    <Description>More expensive materials = longer lifespan</Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30019</ID>
+    <Inputs>Anti glare</Inputs>
+    <Description>Use the same technology in screen for anti-glare in windows
+</Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30020</ID>
+    <Inputs>Double layer windowblinds</Inputs>
+    <Description>Double layer window blinds which let air in but not light
+</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>30021</ID>
+    <Inputs>Filter to stop light</Inputs>
+    <Description>Filters on the windows which becomes dark when light hit it
+</Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30022</ID>
+    <Inputs>Ultra reflective</Inputs>
+    <Description>Make window ultra-reflective so the light reflects and do not let heat it</Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30023</ID>
+    <Inputs>Temperature/light smart integration</Inputs>
+    <Description>integrate temperature measurement of the house to choose whether or not to let light in</Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30024</ID>
+    <Inputs>Rotatable mirrors</Inputs>
+    <Description>Insert rotatable mirrors in the window which reflects the light away from the customer
+</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>30025</ID>
+    <Inputs>Soundproff windows</Inputs>
+    <Description>Make windows soundproff to block outside noise</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>400001</ID>
+    <Inputs>Tinted window</Inputs>
+    <Description>Try using tinted windoew glass instead of blinds. it could be colored or just darkend</Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400002</ID>
+    <Inputs>Anti-UV fabric blinds</Inputs>
+    <Description>Using this fabric with chosen alternetive for glass, when the alternetiv is not pretecting agianst UV</Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400003</ID>
+    <Inputs>Recycled plastic blinds </Inputs>
+    <Description />
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400004</ID>
+    <Inputs>Recyclable plastic glass</Inputs>
+    <Description />
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400005</ID>
+    <Inputs>Acrylic Windows</Inputs>
+    <Description>This is an alternativ for glass. It could be that we use this for one layer of the window or the whole window</Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400006</ID>
+    <Inputs>Plexiglass windows</Inputs>
+    <Description>This is an alternativ for glass. It could be that we use this for one layer of the window or the whole window
+</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400007</ID>
+    <Inputs>Polycarbonate Windows</Inputs>
+    <Description>This is an alternativ for glass. It could be that we use this for one layer of the window or the whole window
+</Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400008</ID>
+    <Inputs>Metal plates instead of glass and blinds</Inputs>
+    <Description>So when they separate, they let air and light in.  There could be a layer of glass/alteretive</Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400009</ID>
+    <Inputs>Wood blinds</Inputs>
+    <Description>So when they separate, they let air and light in.  There could be a layer of glass/alteretive</Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400010</ID>
+    <Inputs>Thermal fabric </Inputs>
+    <Description>For heat control, if or when using glass that can't</Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400011</ID>
+    <Inputs>Digital shades</Inputs>
+    <Description>Where the color and transparency of the shades/bllinds can be controled</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>400012</ID>
+    <Inputs>Two-way mirror with metal coating</Inputs>
+    <Description>Where use decide how much light can pass</Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400013</ID>
+    <Inputs>Skylight shades </Inputs>
+    <Description />
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400014</ID>
+    <Inputs>Window blinds system with rechargeable battery </Inputs>
+    <Description>The window can be glass/alternative and the blinds can be one of the many mentioned </Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400015</ID>
+    <Inputs>Window blinds system that use solar power to recharge battery</Inputs>
+    <Description>The window can be glass/alternative and the blinds can be one of the many mentioned 
+</Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400016</ID>
+    <Inputs>Window blinds system that can be Bluetooth operated</Inputs>
+    <Description>The window can be glass/alternative and the blinds can be one of the many mentioned 
+</Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400017</ID>
+    <Inputs>Window blinds system that can connect to other Smart home devices</Inputs>
+    <Description>The window can be glass/alternative and the blinds can be one of the many mentioned 
+</Description>
+    <Green>True</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400018</ID>
+    <Inputs>Voice command-controlled window blinds system </Inputs>
+    <Description />
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400019</ID>
+    <Inputs>Add sensors, like temperature or humility</Inputs>
+    <Description />
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400020</ID>
+    <Inputs>Outdoor shades, that are places outside the window </Inputs>
+    <Description>Could be made from plastic or metal 
+</Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400021</ID>
+    <Inputs>Window glass with blinds in between two pieces glass</Inputs>
+    <Description />
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400022</ID>
+    <Inputs>Two-way mirror that can rotate</Inputs>
+    <Description>So when face one way, no light can come in and when facing the other light can come in</Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400023</ID>
+    <Inputs>Skylight shades + automated and remote control</Inputs>
+    <Description />
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400024</ID>
+    <Inputs>Technology that can be added to existing blinds?</Inputs>
+    <Description />
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>18</ID>
+    <Inputs>A mechanism/object placed inside home that draws heat from room </Inputs>
+    <Description>This could make window blinds redundent in concert with heat dissapation (but not blocking) </Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>19</ID>
+    <Inputs>Smart window- see thru and interactable </Inputs>
+    <Description>Similiar to see through OLED tvs - means the window is essential one big transparent IPAD </Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>20</ID>
+    <Inputs>Sun reflecting window blinds (e.g towards garden) </Inputs>
+    <Description />
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>21</ID>
+    <Inputs>Window covered with living organisms (like plants)</Inputs>
+    <Description>Plants could create an interrasting pattern and it could be said to be more environmental friendly - somehow make a window blind that can sustain plants or something similiar. </Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>22</ID>
+    <Inputs>Heated inside window blinds (similiar as heated car windows) </Inputs>
+    <Description>Could replace floor heat / radiators </Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>20001</ID>
+    <Inputs>Spider web window</Inputs>
+    <Description>Invisibe to the eye but can be effective in breaking the light</Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>20002</ID>
+    <Inputs>Use Vantablack to complete block sun </Inputs>
+    <Description />
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>20003</ID>
+    <Inputs>carbon light window</Inputs>
+    <Description>zero carbon - quantitive daylight based on measurements</Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>20004</ID>
+    <Inputs>Ecosystem window</Inputs>
+    <Description>Growing plans/organs that can grow in/on windows</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>20005</ID>
+    <Inputs>Made of recycled materials</Inputs>
+    <Description>Use of mixed materials</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>20006</ID>
+    <Inputs>Solar cell window</Inputs>
+    <Description>See thru window that changes with daylight</Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>20007</ID>
+    <Inputs />
+    <Description />
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>20008</ID>
+    <Inputs>Pivot roof window</Inputs>
+    <Description>Rotates per demand</Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>20009</ID>
+    <Inputs>Plant window</Inputs>
+    <Description>Grows with sun ( hot temperature) and shrink in cold temperature</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>20010</ID>
+    <Inputs>window using pigments</Inputs>
+    <Description>Per costumer demand, injecting color</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>20011</ID>
+    <Inputs>shell windows</Inputs>
+    <Description>windows that have the shape of a shell</Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>20012</ID>
+    <Inputs>Grass windows</Inputs>
+    <Description>use of seeds</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>20013</ID>
+    <Inputs>Automated web that can control light</Inputs>
+    <Description>for customer  comfort</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>20014</ID>
+    <Inputs>Addtional windows in the house</Inputs>
+    <Description>Seemless windows to capture more light</Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>20015</ID>
+    <Inputs>Angled windows</Inputs>
+    <Description>Installation of angled windows based on quantitive approach</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>20016</ID>
+    <Inputs>Dome shape windows</Inputs>
+    <Description>Variety of shapes to reduce daylight</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>20017</ID>
+    <Inputs>Install tube to collect the light</Inputs>
+    <Description>Controlling the light inside the house </Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>20018</ID>
+    <Inputs />
+    <Description />
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>20019</ID>
+    <Inputs>Home automation windows</Inputs>
+    <Description>Electrically operated windows , blinds bring intelligent technology</Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>20020</ID>
+    <Inputs />
+    <Description />
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>20021</ID>
+    <Inputs>Dress the window with accessories</Inputs>
+    <Description>Cover window with different clothing or sheets</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>20022</ID>
+    <Inputs>Wider windows</Inputs>
+    <Description>Expand the length of the windows</Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>20023</ID>
+    <Inputs>Windows installed as a glove</Inputs>
+    <Description>Being part of the roof , structurally sound</Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>20024</ID>
+    <Inputs />
+    <Description />
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>20025</ID>
+    <Inputs>Radiator window</Inputs>
+    <Description>When it gets hot it cools the engine ( inside the house)</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>20026</ID>
+    <Inputs>Rotating window</Inputs>
+    <Description>Collects the daylight , disperse the heat</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>20027</ID>
+    <Inputs>Facade window</Inputs>
+    <Description>Act as exterior wall of a building</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>20028</ID>
+    <Inputs>Sealed window</Inputs>
+    <Description>the daylight penetrates but it doesnt allow heat to get in</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>20029</ID>
+    <Inputs />
+    <Description />
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>20030</ID>
+    <Inputs>Space shuttle windows</Inputs>
+    <Description>Made of aluminum silicate glass and fused silica glass.</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>20031</ID>
+    <Inputs>Indoor lights - no windows</Inputs>
+    <Description>Compensate the daylight and heat inside the house</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>20032</ID>
+    <Inputs>Windows grid</Inputs>
+    <Description>Grid of small windows </Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>20033</ID>
+    <Inputs>windows with exterior rollshutters</Inputs>
+    <Description>installed outside the walls containing the windows</Description>
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>20034</ID>
+    <Inputs />
+    <Description />
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>20035</ID>
+    <Inputs>windows with exterior screen shadings</Inputs>
+    <Description>many types of commercial exterior screen shadings with various fabric materials</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>20036</ID>
+    <Inputs>windows with interior reflective blinds</Inputs>
+    <Description>the reflective blinds increase the heating energy </Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>20037</ID>
+    <Inputs />
+    <Description />
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>23</ID>
+    <Inputs>Flower petals that close and open based on human touch. </Inputs>
+    <Description />
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>24</ID>
+    <Inputs>Water inside window </Inputs>
+    <Description>Water inside window - transparent at room temperature but blocks view when frozen. </Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>25</ID>
+    <Inputs>ant nest inside window</Inputs>
+    <Description>ant nest inside window - kinda transparent but mostly because it is very different 
+. </Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400025</ID>
+    <Inputs>Windows that can be programmed to to learn the best way to behave </Inputs>
+    <Description>Smart windows use artificial intelligence and machine learning to optimize natural light, control heat and limit glare</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>400026</ID>
+    <Inputs>Liquid window</Inputs>
+    <Description>Uses a hydrogel-based liquid between glass panels and was found to reduce energy consumption
+</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>400027</ID>
+    <Inputs>See-through TV a window</Inputs>
+    <Description>Transparent LED display, where images can appear 
+</Description>
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>400028</ID>
+    <Inputs>Anti-rain noise effect windows with hydrophobic properties</Inputs>
+    <Description />
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>400029</ID>
+    <Inputs>One way mirror, </Inputs>
+    <Description />
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30026</ID>
+    <Inputs>Blinds made from wood</Inputs>
+    <Description />
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30027</ID>
+    <Inputs>Mirror to consume light energy</Inputs>
+    <Description>With the installation of mirrows in the window in the shape of an array simelary to telescopes the energy can solor energy can be converted to electricity</Description>
+    <Green>False</Green>
+    <Blue>True</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30028</ID>
+    <Inputs>Use the energy from the solarpanals to cool the room</Inputs>
+    <Description />
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30029</ID>
+    <Inputs>Make the frame of heat absorpant materials which makes it easier to transport the heat away</Inputs>
+    <Description />
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>True</Red>
+  </item>
+  <item>
+    <ID>30030</ID>
+    <Inputs>Make magnetic windowblinds that can be attached to the window frame</Inputs>
+    <Description />
+    <Green>True</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+  <item>
+    <ID>30031</ID>
+    <Inputs />
+    <Description />
+    <Green>False</Green>
+    <Blue>False</Blue>
+    <Red>False</Red>
+  </item>
+</items>
